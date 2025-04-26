@@ -120,11 +120,9 @@ public class MainActivity extends AppCompatActivity {
 
 ![Screenshot 2025-04-26 141519](https://github.com/user-attachments/assets/f9843e2b-d6b4-42d8-b883-766fa8d40d64)
 
-
-![Uploading image.png…]()
-
-
 ![Screenshot 2025-04-26 141553](https://github.com/user-attachments/assets/aa92153b-f447-491b-b219-09b2263ae67e)
+
+![Screenshot 2025-04-26 141809](https://github.com/user-attachments/assets/1314ef33-60c9-4398-bd68-ff75742b64b0)
 
 ## Result:
 Thus a Simple Android Application to  Develop an android application to display the images using gallery control was developed and executed successfully.
