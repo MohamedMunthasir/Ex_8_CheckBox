@@ -1,4 +1,4 @@
-# Ex_8 :
+# Ex No : 08
 Develop an android application to display the images using gallery control.
 ## AIM:
 To  Develop an android application to display the images using gallery control.
