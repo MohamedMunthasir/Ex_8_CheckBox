@@ -1,7 +1,7 @@
-# Ex_8_CheckBox
-Develop a program to create a option menu using checkboxes and display the toast selected checkboxes with Android Studio
+# Ex_8 :
+Develop an android application to display the images using gallery control.
 ## AIM:
-To Develop a program for creating a option menu using checkboxes and display the toast selected checkboxes with Android Studio.
+To  Develop an android application to display the images using gallery control.
 
 ## EQUIPMENTS REQUIRED:
 
